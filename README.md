@@ -47,5 +47,5 @@ Assim já o faz o CNJ, com o atual selo de qualidade.
 * Alexandre José Mendes [Linkedin]()
 * Filipe Lipster [Linkedin]()
 * Igo Pereira Barros - [Linkedin](https://www.linkedin.com/in/igo-pereira-barros-developer/) [Blog](https://igobarros.herokuapp.com/) [Instagram](https://www.instagram.com/igopbarros/)
-* Leonardo Vieira Barbosa [Linkedin]()
+* Leonardo Vieira Barbosa [Linkedin](https://www.linkedin.com/in/leonardo-vieira-barbosa-b8a5ba53/)
 * Nilo Gabriel de Andrade e Silva [Linkedin]()
