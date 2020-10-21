@@ -62,23 +62,23 @@ Após a execução, podemos verificar o banco de dados com os dados persistidos.
 
 **tb_processo_tj**
 
-id
-siglaTribunal
-grau
-numero
-dataAjuizamento
-classeProcessual
-codigoOrgao
-codigoMunicipioIBGE
-instancia
-codigoLocalidade
+  id
+  siglaTribunal
+  grau
+  numero
+  dataAjuizamento
+  classeProcessual
+  codigoOrgao
+  codigoMunicipioIBGE
+  instancia
+  codigoLocalidade
 
 **tb_movimento_tj**
 
-id
-codigoNacional
-dataHora
-id_processo
+  id
+  codigoNacional
+  dataHora
+  id_processo
 
 ### Issues
 
