@@ -41,7 +41,7 @@ Assim já o faz o CNJ, com o atual selo de qualidade.
 3. Estimular a competividade saudável entre os Magistrados e Servidores;
 4. Permitir a identificação de eventuais dificuldades/problemas em órgãos julgadores de forma rápida e eficiente;
 
-#### Integrantes da equipe 28
+### Integrantes da equipe 28
 
 * Alexandre Gonçalves Oliveira - [Linkedin]()
 * Alexandre José Mendes [Linkedin]()
