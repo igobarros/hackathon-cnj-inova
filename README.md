@@ -43,9 +43,9 @@ Assim já o faz o CNJ, com o atual selo de qualidade.
 
 #### Integrantes da equipe 28
 
-Alexandre Gonçalves Oliveira - [Linkedin]()
-Alexandre José Mendes [Linkedin]()
-Filipe Lipster [Linkedin]()
-Igo Pereira Barros - [Linkedin](https://www.linkedin.com/in/igo-pereira-barros-developer/) [Blog](https://igobarros.herokuapp.com/) [Instagram](https://www.instagram.com/igopbarros/)
-Leonardo Vieira Barbosa [Linkedin]()
-Nilo Gabriel de Andrade e Silva [Linkedin]()
+* Alexandre Gonçalves Oliveira - [Linkedin]()
+* Alexandre José Mendes [Linkedin]()
+* Filipe Lipster [Linkedin]()
+* Igo Pereira Barros - [Linkedin](https://www.linkedin.com/in/igo-pereira-barros-developer/) [Blog](https://igobarros.herokuapp.com/) [Instagram](https://www.instagram.com/igopbarros/)
+* Leonardo Vieira Barbosa [Linkedin]()
+* Nilo Gabriel de Andrade e Silva [Linkedin]()
